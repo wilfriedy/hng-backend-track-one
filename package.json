@@ -1,0 +1,19 @@
+{
+  "name": "taskone",
+  "version": "1.0.0",
+  "description": "Create an (GET) api endoint that returns a json response",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilfriedy/hng-backend-track-one.git"
+  },
+  "author": "boydeveloper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilfriedy/hng-backend-track-one/issues"
+  },
+  "homepage": "https://github.com/wilfriedy/hng-backend-track-one#readme"
+}
